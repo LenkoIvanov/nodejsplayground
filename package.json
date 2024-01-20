@@ -1,0 +1,15 @@
+{
+  "name": "nodejsapi",
+  "version": "1.0.0",
+  "description": "A NodeJS and Express API playground",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Lenko Ivanov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
